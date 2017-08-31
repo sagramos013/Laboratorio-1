@@ -1,0 +1,9 @@
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\bin\Debug\RepasoEstructurasDatosBasicas.exe.config
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\bin\Debug\RepasoEstructurasDatosBasicas.exe
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\bin\Debug\RepasoEstructurasDatosBasicas.pdb
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\obj\Debug\RepasoEstructurasDatosBasicas.csprojResolveAssemblyReference.cache
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\obj\Debug\RepasoEstructurasDatosBasicas.Form1.resources
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\obj\Debug\RepasoEstructurasDatosBasicas.Properties.Resources.resources
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\obj\Debug\RepasoEstructurasDatosBasicas.csproj.GenerateResource.Cache
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\obj\Debug\RepasoEstructurasDatosBasicas.exe
+C:\Users\sagra\Documents\Visual Studio 2015\Projects\RepasoEstructurasDatosBasicas\RepasoEstructurasDatosBasicas\obj\Debug\RepasoEstructurasDatosBasicas.pdb
